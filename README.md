@@ -2,11 +2,7 @@
 
 ## About me
 
-My name is Hamza Elafifi. I’m 16 years old and come from Egypt. I am attending my high school years in Winnipeg and I’m planning on attending university in Ontario to receive my medical degree and become a neurosurgeon. 
-
-I have many things that inspire me in my everyday life. Sports are a major thing due to my athleticism and genetics, that I have become fond of Basketball, Swimming, Boxing, and weight-lifting. 
-
-I am also heavily inspired by business because I had found myself really interested in the system of sacrifice and risk which can bring out success in return.
+My name is Hamza Elafifi. I’m 17 years old and come from Egypt.I love Coding and all things tech related because of how ever expanding their development is day by day. I'm very profecient in C#, HTML, CSS, SQL, Javascript, MVC, and much more. Go through my projects and shoot me a message if you have any questions!
 
 ### Skills
 
